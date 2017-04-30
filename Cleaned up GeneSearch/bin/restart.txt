@@ -1,0 +1,95 @@
+import java.io.BufferedReader;
+import java.io.File;
+import java.io.FileReader;
+import java.io.IOException;
+import java.util.ArrayList;
+
+import java.nio.file.Files;
+import java.nio.file.Paths;
+
+public class Main {
+	static public void main(String[] args){
+		// System.out.println(args[0]);
+
+		File ourStuff = new File("/Users/Muyao/Documents/workspace/GeneSearch/src/GeneNames.txt");
+		ArrayList<String> genes = new ArrayList<String>();
+		try {
+			FileReader reader = new FileReader(ourStuff);
+			BufferedReader buffReader = new BufferedReader(reader);
+			int x = 0;
+			String s;
+			while ((s = buffReader.readLine()) != null) {
+				String temp = s.replaceAll("[\\n\\t ]", "\n");
+				genes.add(temp);
+
+				// System.out.println(s);
+				x++;
+			}
+
+			System.out.println("done");
+		} catch (IOException e) {
+			// handle exception
+		}
+		File theirStuff = new File(
+				"/Users/Muyao/Documents/workspace/GeneSearch/src/gwas_catalog_v1.0-downloaded_2015-10-20.tsv");
+		ArrayList<String> lines = new ArrayList<String>();
+		try {
+			FileReader reader = new FileReader(theirStuff);
+			BufferedReader buffReader = new BufferedReader(reader);
+			int x = 0;
+			String s;
+			while ((s = buffReader.readLine()) != null) {
+				String temp = s.replaceAll("[\\n\\t ]", "\n");
+
+				lines.add(temp);
+				// System.out.println(s);
+				x++;
+			}
+
+			System.out.println("done");
+		} catch (IOException e) {
+			// handle exception
+		}
+
+		while (!genes.isEmpty()) {
+
+			// using Split
+			String[] tokens = genes.get(0).split("//s");
+
+			for (int k = 0; k < tokens.length; k++) {
+
+				String[] words = lines.get(0).split("//s");
+				for (int j = 0; j < lines.size(); j++) {
+					for (int m = 0; m < words.length; m++) {
+						if (tokens[k] == words[m])
+							System.out.println("match found!" + words[j]);
+					}
+				}
+
+				genes.remove(0);
+
+				// using String Tokenizer
+				/**
+				 * StringTokenizer st = new StringTokenizer(lines.get(0)); while
+				 * (st.hasMoreTokens()) { System.out.println(st.nextToken());
+				 * 
+				 * } lines.remove(0);
+				 */
+			}
+
+			// And just to prove we have the lines right where we want them..
+
+			for (String st : genes) {
+
+				// System.out.println(st);
+			}
+		}
+
+	}
+	
+	private String[] toStrArray(String aLine)
+	{
+		return aLine.split("//s");
+	}
+
+}

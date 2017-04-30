@@ -1,0 +1,121 @@
+
+
+
+
+
+
+
+
+import java.io.BufferedReader;
+import java.io.BufferedWriter;
+import java.io.File;
+import java.io.FileNotFoundException;
+import java.io.FileOutputStream;
+import java.io.FileReader;
+import java.io.IOException;
+import java.io.OutputStreamWriter;
+import java.io.PrintWriter;
+import java.io.UnsupportedEncodingException;
+import java.io.Writer;
+import java.util.ArrayList;
+import java.util.HashMap;
+import java.util.Set;
+import java.util.StringTokenizer;
+import java.nio.file.Files;
+import java.nio.file.Paths;
+
+public class Main {
+	//private static ArrayList<String> genes; 
+	private static HashMap<String,GeneNode> genes;
+	static public void main(String[] args) throws IOException{
+		// System.out.println(args[0]);
+
+		File ourStuff = new File("/Users/Muyao/Documents/workspace/GeneSearch/src/GeneNames.txt");
+		genes = new HashMap<String,GeneNode>();
+		try {
+			FileReader reader = new FileReader(ourStuff);
+			BufferedReader buffReader = new BufferedReader(reader);
+			int x = 0;
+			String s;
+			while ((s = buffReader.readLine()) != null) {
+				String temp = s.replaceAll("[\\n\\t]", "\n");
+				String[] tokens = temp.split("[\\s]");
+
+				for (int k = 0; k < tokens.length; k++) {
+					genes.put(tokens[k], new GeneNode(tokens[k]));
+				}
+				// System.out.println(s);
+				x++;
+			}
+
+			buffReader.close();
+			System.out.println("Done processing our data");
+			System.out.println(genes.keySet().toString().replaceAll("\\s", "\n"));
+		} catch (IOException e) {
+			// handle exception
+		}
+		
+		getGWAS();
+	}
+	
+	private static void getGWAS() throws UnsupportedEncodingException, FileNotFoundException, IOException
+	{
+		File theirStuff = new File(
+				"/Users/Muyao/Documents/workspace/GeneSearch/src/gwas_catalog_v1.0-downloaded_2015-10-26.tsv");
+		ArrayList<String> lines = new ArrayList<String>();
+		try {
+			FileReader reader = new FileReader(theirStuff);
+			BufferedReader buffReader = new BufferedReader(reader);
+			int x = 0;
+			String s;
+			while ((s = buffReader.readLine()) != null) {
+
+				lines.add(s);
+				if(x<5) System.out.println(s);
+				x++;
+			}
+			buffReader.close();
+			System.out.println("done");
+		} catch (IOException e) {
+			// handle exception
+		}
+
+
+		 // PrintWriter writer = new PrintWriter("/Users/Muyao/Documents/results3.txt", "UTF-8");
+		try (Writer writer = new BufferedWriter(new OutputStreamWriter(
+	              new FileOutputStream("/Users/Muyao/Documents/Try2.txt"), "utf-8"))) {
+	   writer.write("List of words found in both files");
+			for (String key: genes.keySet()) {
+				for (int j = 0; j < lines.size(); j++) {
+				//System.out.println(lines.get(j));
+					if(key.isEmpty())
+						break;
+					
+					
+					if(lines.get(j).contains("\t"+key+"\t")) //checks for items separated by tabs
+					{
+						
+						
+						StringTokenizer st = new StringTokenizer(lines.get(j), "\t");
+						int k=0;
+						while(k<7)
+							{st.nextToken(); //get rid of the first token
+							k++;
+							}
+
+						writer.write("\n"+key+": "+st.nextToken());
+						//break;
+						//System.out.println(tokens[k]);
+					}
+				}
+
+			}
+		
+		writer.close();
+		System.out.println("Results updated in file");
+
+	}
+	
+
+	}//done
+}
