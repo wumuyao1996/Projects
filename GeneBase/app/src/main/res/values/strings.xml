@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">GeneBase</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_gene_lookup">GeneLookup</string>
+    <string name="title_activity_add_gene">AddGene</string>
+    <string name="title_activity_results">Results</string>
+</resources>

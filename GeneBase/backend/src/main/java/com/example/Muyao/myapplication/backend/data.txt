@@ -1,0 +1,256 @@
+CUL3: 32,405 European ancestry cases, 42,221 European ancestry controls, 1,235 European ancestry cases and 1,235 European ancestry controls from 1235 parent-offspring trios, 1,836 East Asian ancestry cases, 3,383 East Asian ancestry controls
+MAP3K7: Response to inhaled corticosteroid treatment in asthma (percentage change of FEV1)
+USP53: Corneal astigmatism
+INA: Migraine
+KIF5B: Bipolar disorder with mood-incongruent psychosis
+VPS45: Uric acid levels
+KIF5C: Autism spectrum disorder, attention deficit-hyperactivity disorder, bipolar disorder, major depressive disorder, and schizophrenia (combined)
+SCYL1: Bone mineral density
+SIPA1L1: Response to alcohol consumption (flushing response)
+ARHGEF28: D-dimer levels
+CNTRL: Immune reponse to smallpox (secreted IFN-alpha)
+PIBF1: Blood pressure measurement (low sodium intervention)
+NDC80: PR interval in Tripanosoma cruzi seropositivity
+PKP2: Obesity-related traits
+BACH1: Visceral fat
+LZTS2: Ejection fraction in Tripanosoma cruzi seropositivity
+BACH2: Celiac disease
+GRIP1: Suicidal ideation in depression or bipolar disorder
+SMAP2: Ejection fraction in Tripanosoma cruzi seropositivity
+EVI5: Cholesterol, total
+USP15: Pyoderma gangrenosum in inflammatory bowel disease
+PIK3C2A: Response to abacavir-containing treatment in HIV-1 infection (virologic failure)
+ARHGEF18: Sexual dysfunction (SSRI/SNRI-related)
+TP53: Basal cell carcinoma
+BRWD1: Up to 182,413 European ancestry females
+PHLDB1: Cholesterol, total
+ABI2: Butyrylcholinesterase levels
+SORBS1: 683 European ancestry cases, 779 European ancestry controls
+SORBS2: Visceral adipose tissue/subcutaneous adipose tissue ratio
+EXOC4: Alzheimer's disease (cognitive decline)
+EXOC3: 1,006 European ancestry male child cases, 2,390 European ancestry male child controls, 3,096 European ancestry female child controls
+IGF1: 36,227 East Asian ancestry individuals
+IGF2: Femoral neck bone geometry and menarche (age at onset)
+MID1: Cognitive performance
+GSK3B: HDL cholesterol
+AP4B1: Obesity-related traits
+PHLDB2: up to 1,090 Southern European ancestry Crohn's disease cases
+ENAH: Obesity-related traits
+KIAA1598: Heart failure
+HBS1L: Cholesterol, total
+CSNK2A2: Telomere length
+BAIAP2: Memory performance
+TACC3: Bladder cancer
+BICD1: Obesity-related traits
+OTUD3: Ulcerative colitis
+C2CD4C: Obesity-related traits
+ARPC2: White blood cell count
+FGD6: Adverse response to chemotherapy (neutropenia/leucopenia) (paclitaxel + carboplatin)
+PALM2-AKAP2: Height
+ABL2: IgE grass sensitization
+E2F5: Plasma amyloid beta peptide concentrations (ABx-40)
+SPRY4: Testicular germ cell tumor
+SH2D4A: Smooth-surface caries
+CCHCR1: Nevirapine-induced rash
+CASP8: Chronic lymphocytic leukemia
+CNTLN: Lewy body disease
+IRF2BP2: Cholesterol, total
+KIF1B: Mean platelet volume
+STXBP5: Plasma plasminogen activator levels
+SNX18: Immune response to smallpox vaccine (IL-6)
+HAUS2: up to 4,176 Mexican American individuals
+HAUS1: Migraine - clinic-based
+TRDMT1: Telomere length
+NFATC3: 32,405 European ancestry cases, 42,221 European ancestry controls, 1,235 European ancestry cases and 1,235 European ancestry controls from 1235 parent-offspring trios, 1,836 East Asian ancestry cases, 3,383 East Asian ancestry controls
+CBL: Platelet counts
+SCRN1: Obesity-related traits
+C17orf53: Bone mineral density
+RNF114: Systemic lupus erythematosus
+FAM110B: 979 European ancestry individuals
+LUZP1: 253,288 European ancestry individuals
+KIFAP3: Amyotrophic lateral sclerosis
+TANC1: Response to radiotherapy in prostate cancer (toxicity)
+TANK: Response to anti-retroviral therapy (ddI/d4T) in HIV-1 infection (Grade 3 peripheral neuropathy)
+LCA5: Presence of antiphospholipid antibodies
+DLD: Ulcerative colitis
+EEFSEC: Up to 182,413 European ancestry females
+MYO9B: Glycated hemoglobin levels
+ALMS1: Blood metabolite levels
+CEP85L: Up to 70,389 European ancestry individuals, up to 672 Orcadian individuals
+RNF2: Obesity-related traits
+FERMT2: Alzheimer's disease (late onset)
+VPS37A: Tonometry
+TTLL5: Large artery stroke
+VPS37C: Rheumatoid arthritis
+MCCC1: 13,708 European ancestry cases, 95,282 European ancestry controls
+C12orf23: Bone mineral density
+RAD50: Asthma (childhood onset)
+MTAP: Melanoma
+IFFO2: 657 European ancestry cases, 9,296 European ancestry controls
+PPP6R3: Bone mineral density (paediatric, skull)
+APBA2: Response to mTOR inhibitor (rapamycin)
+EIF4ENIF1: Age-related hearing impairment
+CSNK1A1: Esophageal cancer
+BCKDHB: 253,288 European ancestry individuals
+TEX9: 161 European ancestry cases, 1,196 European ancestry clozapine-treated and untreated controls
+SVIL: Neurofibrillary tangles
+BCDIN3D: Up to 182,413 European ancestry females
+CEP72: Obesity-related traits
+TOP1: Cholesterol, total
+PRKACB: Breast cancer (male)
+CEP85: Obesity-related traits
+CARS: Calcium levels
+ERC1: Bone mineral density
+GPN1: Periodontitis (CDC/AAP)
+CEP95: PR interval in Tripanosoma cruzi seropositivity
+ITGB1: Depression (quantitative trait)
+LOH12CR1: Inflammatory bowel disease
+BRCA2: Lung cancer
+NEDD1: Autism
+CADPS2: Up to 182,413 European ancestry females
+PLEKHA7: Glaucoma (primary angle closure)
+SLAIN2: Crohn's disease
+ARHGAP10: Immune reponse to smallpox (secreted IL-12p40)
+ARHGAP12: C-reactive protein levels
+FAM83B: Up to 182,413 European ancestry females
+TMEM57: LDL cholesterol
+KLHL22: Retinopathy in non-diabetics
+GAREM: 6,085 Korean ancestry individuals
+KIAA0232: Platelet counts
+PALLD: Response to iloperidone treatment (QT prolongation)
+KLHL13: Iron status biomarkers
+SMARCAD1: Up to 182,413 European ancestry females
+CCDC57: Blood metabolite levels
+C6orf132: Amyotrophic lateral sclerosis (sporadic)
+TNRC6C: Thiazide-induced adverse metabolic effects in hypertensive patients
+TNRC6B: Prostate cancer
+TNRC6A: Type 2 diabetes (dietary heme iron intake interaction)
+ZC3H12C: Exercise treadmill test traits
+CEP63: Height
+KNSTRN: 1,778 European ancestry individuals, 1,276 individuals
+CCDC77: Obesity (early onset extreme)
+ATXN3: Coronary artery calcification
+NME1-NME2: Height
+EVI5L: Up to 182,413 European ancestry females
+CROCC: Allergic rhinitis
+RANGAP1: Self-reported allergy
+WDR73: Periodontitis (CDC/AAP)
+MAP2K6: Response to anti-retroviral therapy (ddI/d4T) in HIV-1 infection (Grade 1 peripheral neuropathy)
+MAGI3: Thyroid peroxidase antibody levels
+TNIK: LDL cholesterol
+MAGI1: up to 1,090 Southern European ancestry Crohn's disease cases
+PCM1: Up to 737 European ancestry individuals, Up to 545 Black individuals, Up to 314 Hispanic individuals
+NME7: Venous thromboembolism
+FCHSD2: Crohn's disease
+WDR60: Height
+CCDC102A: Cataracts in type 2 diabetes
+PVRL2: Verbal declarative memory
+FXR2: IgM levels
+FXR1: Schizophrenia
+NAP1L1: Obesity-related traits
+TTC27: Hippocampal atrophy
+STOX2: Thiazide-induced adverse metabolic effects in hypertensive patients
+CEP170B: IgG glycosylation
+WDR34: Axial length
+SIK3: 1,022 European ancestry individuals, 280 Carlantino individuals, 1,097 Friuli Venezia Giulia individuals, 804 Korkula individuals, 497 Split individuals, 421 Cilento individuals, 470 Talana individuals, 348 Silk Road individuals
+ARHGEF7: Homeostasis model assessment of insulin resistance (interaction)
+ACO1: IgG glycosylation
+MAST4: Epilepsy (generalized)
+KIAA1217: Common traits (Other)
+HK2: Femoral neck bone geometry
+PLEKHG1: Systolic blood pressure in sickle cell anemia
+TBC1D5: 32,405 European ancestry cases, 42,221 European ancestry controls, 1,235 European ancestry cases and 1,235 European ancestry controls from 1235 parent-offspring trios, 1,836 East Asian ancestry cases, 3,383 East Asian ancestry controls
+CSDE1: Autism
+TBC1D4: Heart failure
+HSD17B4: Pyoderma gangrenosum in inflammatory bowel disease
+DNM3: 36,227 East Asian ancestry individuals
+PDZRN3: QT interval
+DNM1: Attention deficit hyperactivity disorder
+CAPZA1: 253,288 European ancestry individuals
+RPS6KB1: Obesity-related traits
+AAK1: 4,501 European ancestry individuals, 351 African American individuals
+ACTN1: Periodontitis (Mean PAL)
+ARPC1A: Dehydroepiandrosterone sulphate levels
+MAVS: Asthma
+ECE1: 253,288 European ancestry individuals
+NIN: Lupus nephritis in systemic lupus erythematosus
+TSC1: Psoriasis
+DPH5: QT interval (interaction)
+LCP1: Non-alcoholic fatty liver disease histology (other)
+ALDH1A2: Osteoarthritis (hand, severe)
+REL: Hodgkin's lymphoma
+SCLT1: Chronic obstructive pulmonary disease (moderate to severe)
+DPYSL5: Obesity-related traits
+DBI: Obesity-related traits
+ANXA2: 8,284 African American cases, 15,543 African American controls
+PDLIM5: Lewy body disease
+SNCA: 13,708 European ancestry cases, 95,282 European ancestry controls
+CD2AP: Amyotrophic lateral sclerosis (sporadic)
+PRIM1: Menopause (age at onset)
+SHB: Metabolite levels (Dihydroxy docosatrienoic acid)
+GAB1: Asthma
+CEP152: Insomnia
+NAV1: Celiac disease
+GIGYF2: 32,405 European ancestry cases, 42,221 European ancestry controls, 1,235 European ancestry cases and 1,235 European ancestry controls from 1235 parent-offspring trios, 1,836 East Asian ancestry cases, 3,383 East Asian ancestry controls
+TDRD3: Breast size
+CDV3: Bulimia nervosa
+AKAP13: Corneal structure
+IGF2BP1: Primary tooth development (time to first tooth eruption)
+ASAP1: Multiple sclerosis
+AKAP10: Platelet counts
+IGF2BP3: 253,288 European ancestry individuals
+CAPZB: Thyroid hormone levels
+PIN1: 47,180 European ancestry individuals
+CEP170: 106,736 European ancestry individuals
+TBKBP1: Ankylosing spondylitis
+PTPN14: 36,227 East Asian ancestry individuals
+TRIO: 2,383 European ancestry adolescents and 1,643 European ancestry adults from 1,613 families
+HOMER1: 4,162 European ancestry individuals
+EPS8: Protein quantitative trait loci
+TMOD1: Obesity-related traits
+FAM91A1: Pancreatic cancer
+BCAR1: 1,582 European ancestry cases, 5,203 European ancestry controls
+WASF2: Estradiol plasma levels (breast cancer)
+NFKB1: Ulcerative colitis
+BAG3: Dilated cardiomyopathy
+DYNC1H1: Menopause (age at onset)
+DYNC1I1: Dementia and core Alzheimer's disease neuropathologic changes
+HERC2: Eye color
+ZCCHC14: Major depressive disorder
+IFT74: Amyotrophic lateral sclerosis (sporadic)
+CEP120: 36,227 East Asian ancestry individuals
+SHROOM3: Glomerular filtration rate
+KIAA0196: 4,377 European ancestry ALS cases, 435 European ancestry FTD cases, 14,431 European ancestry controls
+POLR2B: 36,227 East Asian ancestry individuals
+STAU1: 253,288 European ancestry individuals
+CYLD: Leprosy
+CIT: 1,102 European ancestry cases, 405 European ancestry controls
+TJP2: 3,269 European ancestry individuals
+MAEA: Type 2 diabetes
+CHMP4C: Ovarian cancer
+PARD3B: Attention deficit hyperactivity disorder (combined symptoms)
+ITPK1: Thyroid hormone levels
+POC5: Body mass index
+PCCB: Height
+PCCA: Refractive error
+CGNL1: Bipolar disorder (age of onset and psychotic symptoms)
+COPZ1: Platelet counts
+AXIN1: Bone mineral density
+CPNE8: Heart rate
+LPP: up to 4,176 Mexican American individuals
+CKAP5: Bone mineral density (hip)
+RPGRIP1L: Vitiligo (non-segmental)
+TOMM40: Alzheimer's disease
+ATE1: Breast cancer
+GPATCH1: Bone properties (heel)
+KIAA0355: Functional MRI
+EIF4E2: 253,288 European ancestry individuals
+CAMSAP2: Epilepsy
+ARHGAP1: Bone mineral density
+TM9SF2: Obesity-related traits
+HSP90AA1: Behavioural disinhibition (generation interaction)
+CCDC88C: Breast cancer
+C5orf42: Telomere length
+CALD1: Response to anti-retroviral therapy (ddI/d4T) in HIV-1 infection (Grade 1 peripheral neuropathy)
+DCTD: Wegener's granulomatosis
+RUFY1: Eating disorders
